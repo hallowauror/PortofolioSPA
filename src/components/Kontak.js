@@ -8,7 +8,7 @@ export const Kontak = () => {
         <div className="contact-info">
             <div className="col-md-5">
                 <h4>My Contact Info</h4>
-                <br></br>
+                <hr></hr>
                 <p>Kontak yang bisa anda hubungi</p>
                 <ul>
                     <FontAwesomeIcon icon={faHome} /> Terban, Yogyakarta
@@ -25,3 +25,5 @@ export const Kontak = () => {
 
     )
 }
+
+export default Kontak;

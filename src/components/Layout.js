@@ -6,3 +6,5 @@ export const Layout = (props) => (
         {props.children}
     </Container>
 )
+
+export default Layout;

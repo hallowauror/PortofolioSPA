@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { Component } from 'react'
 
-export const Home = () => {
+class Home extends Component{
+    render(){
     return (
         <div>
             <h2>Lorem Ipsum</h2>
@@ -21,3 +22,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
         </div>
     )
 }
+}
+
+
+export default Home; 

@@ -36,3 +36,5 @@ export const Jumbotron = () => (
         </Jumbo>
     </Styles>
 )
+
+export default Jumbotron;

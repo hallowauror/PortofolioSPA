@@ -10,3 +10,5 @@ export const Portofolio = () => {
         </div>
     )
 }
+
+export default Portofolio;

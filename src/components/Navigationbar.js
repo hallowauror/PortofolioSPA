@@ -32,3 +32,5 @@ export const Navigationbar = () => (
         </Navbar>
     </Styles>
 )
+
+export default Navigationbar;
